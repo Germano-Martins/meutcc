@@ -20,3 +20,9 @@ Acessibilidade e Otimização
 a leitura. 
 * **Navegação:** Implementamos nomes intuitivos nos botões (ex: em vez de 
 "OK", usamos "Salvar Alterações").
+
+Status das Rotas: Descreva o que acontece quando o usuário clica no botão principal.
+
+Feedback ao Usuário: Como o sistema avisa o usuário que uma ação foi concluída? (Ex: Modal de sucesso, mudança de cor, mensagem de texto).
+
+Dificuldades Técnicas: Liste um desafio que você encontrou ao tentar separar a lógica (JS/PHP) da estrutura (HTML).
