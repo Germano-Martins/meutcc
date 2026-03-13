@@ -14,3 +14,4 @@ function gerenciarRota(acao) {
 
 // Exemplo de lógica de processamento
 console.log("Controller pronto para gerenciar rotas de navegação.");
+

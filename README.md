@@ -26,3 +26,35 @@ Status das Rotas: Descreva o que acontece quando o usuário clica no botão prin
 Feedback ao Usuário: Como o sistema avisa o usuário que uma ação foi concluída? (Ex: Modal de sucesso, mudança de cor, mensagem de texto).
 
 Dificuldades Técnicas: Liste um desafio que você encontrou ao tentar separar a lógica (JS/PHP) da estrutura (HTML).
+
+**NavigationController.js**
+
+**O que ele faz:** Imagine que este arquivo é o recepcionista do seu sistema.
+
+**Tarefa:** Escreva um comentário (ou código simples) descrevendo a lógica de redirecionamento.
+
+**main.js.**
+
+**Foco em Acessibilidade:** Defina regras de estilo para os botões.
+
+Use a regra de ouro do contraste: fundo escuro com letra clara (ou vice-versa).
+
+Adicione o efeito :hover para que o usuário saiba que o elemento é clicável.
+
+**style.css.**
+
+**Foco em Acessibilidade**: Defina regras de estilo para os botões.
+
+Use a regra de ouro do contraste: fundo escuro com letra clara (ou vice-versa).
+
+Adicione o efeito :hover para que o usuário saiba que o elemento é clicável.
+
+ **README.md**
+
+ **Status das Rotas:** Descreva o que acontece quando o usuário clica no botão principal.
+
+**Feedback ao Usuário:** Como o sistema avisa o usuário que uma ação foi concluída? (Ex: Modal de sucesso, mudança de cor, mensagem de texto).
+
+**Dificuldades Técnicas:** Liste um desafio que você encontrou ao tentar separar a lógica (JS/PHP) da estrutura (HTML).
+
+
